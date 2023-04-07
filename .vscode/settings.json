@@ -4,4 +4,7 @@
   "editor.formatOnSaveMode": "file",
   // opinionated cosmetics
   "workbench.iconTheme": "material-icon-theme",
+  "restoreTerminals.terminals": [
+    "bash",
+  ]
 }

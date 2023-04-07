@@ -15,6 +15,7 @@
     "eamodio.gitlens",
     "davidanson.vscode-markdownlint",
     "tauri-apps.tauri-vscode",
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "ethansk.restore-terminals"
   ]
 }

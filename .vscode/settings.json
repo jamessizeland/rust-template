@@ -2,9 +2,10 @@
   // force format on save to be enabled for this project
   "editor.formatOnSave": true,
   "editor.formatOnSaveMode": "file",
-  // opinionated cosmetics
-  "workbench.iconTheme": "material-icon-theme",
   "restoreTerminals.terminals": [
     "bash",
-  ]
+  ],
+  // rust specific
+  "editor.defaultFormatter": "rust-lang.rust-analyzer",
+  "rust-analyzer.check.command": "clippy",
 }
